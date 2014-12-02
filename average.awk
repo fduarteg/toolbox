@@ -1,6 +1,6 @@
 #!/usr/bin/awk -f
 
-# MR, Oct 2013
+# MR, Oct 2014
 # Script for computing an average and standard deviation of the sample
 # for each column in a file containing an arbitrary number of columns.
 
