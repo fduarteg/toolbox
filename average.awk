@@ -6,6 +6,7 @@
 
 # Empty lines and lines that contain alphabetic characters are ignored
 # completely. Lines that do not have the same number of columns as the
+# first line are also ignored from the calculations.
 
 
 {
